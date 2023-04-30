@@ -1,8 +1,1 @@
-console.log(" new holaaa git cambio nuevo probando commit " );
-console.log("probando los merge ");
-
-
-
-
-
-print("golasaa print");
+console.log(" new hola git gitHub " );
